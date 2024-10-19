@@ -1,5 +1,5 @@
 {
-    "name": "TavaoBR/mini-framework-php",
+    "name": "tavaobr/mini-framework-php",
     "require": {
         "league/plates": "^3.5",
         "coffeecode/router": "^2.0",
